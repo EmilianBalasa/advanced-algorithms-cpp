@@ -23,3 +23,4 @@ An algorithm that generates the shortest possible universal string containing al
 ## Technical Highlights
 * **Language:** C++
 * **Concepts:** Graph Theory, DAGs, Minimum Dominating Sets, State-Space Exploration, Cycle Detection.
+* **Memory Management:** Implementation of custom data structures using manual memory allocation.
